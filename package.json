@@ -1,0 +1,15 @@
+{
+  "name": "rr-fluff-admin-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react":          "16.13.0",
+    "react-dom":      "16.13.0",
+    "next":           "9.5.0",
+    "webpack":        "4.42.0",
+    "serialize-javascript": "3.0.0",
+    "postcss":        "7.0.32",
+    "browserslist":   "4.16.0",
+    "ansi-regex":     "5.0.0"
+  }
+}
